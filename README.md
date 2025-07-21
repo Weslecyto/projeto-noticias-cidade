@@ -1,24 +1,27 @@
-<h1> Weslecyto/projeto-noticias-cidade </h1>
-<h2> Projeto | Project </h2>
-[PT-BR] Portal de notícias com layout estilo jornalístico e seções temáticas.
-[ENG] News portal with newspaper-style layout and themed sections.
+# 📰 Weslecyto/projeto-noticias-cidade
 
-<h2> Detalhes | Details </h2>
-[PT-BR]
+## 📌 Projeto | Project  
+**[PT-BR]** Portal de notícias com layout estilo jornalístico e seções temáticas.  
+**[ENG]** News portal with newspaper-style layout and themed sections.
 
-Destaques, notícias recentes e entrevistas
+## 📋 Detalhes | Details  
+**[PT-BR]**  
+- Destaques, notícias recentes e entrevistas  
+- Menu de categorias: Brasil, Internacional, Economia, etc.  
+- Formulário de newsletter e rodapé institucional
 
-Menu de categorias: Brasil, Internacional, Economia, etc.
+**[ENG]**  
+- Featured news, recent updates and interviews  
+- Category menu: Brazil, International, Economy, etc.  
+- Newsletter form and footer with institutional info
 
-Formulário de newsletter e rodapé institucional
+## 🛠️ Linguagens | Technologies Used  
+**HTML5**, **CSS3** e **JavaScript**  
+Essas tecnologias foram utilizadas para estruturar, estilizar e dar interatividade ao site. HTML cria o conteúdo, CSS define o layout visual e JavaScript adiciona comportamento dinâmico.
 
-[ENG]
+**HTML5, CSS3 and JavaScript**  
+These technologies were used to structure, style, and add interactivity to the site. HTML builds the content, CSS handles the visual layout, and JavaScript adds dynamic behavior.
 
-Featured news, recent updates and interviews
+## 🖼️ Visualização | Preview  
 
-Category menu: Brazil, International, Economy, etc.
-
-Newsletter form and footer with institutional info
-
-<h2> Visualização | Preview </h2>
 <img width="1835" height="906" alt="image" src="https://github.com/user-attachments/assets/8a050d39-3def-4ed2-aeef-b4c676851d3e" />
