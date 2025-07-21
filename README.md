@@ -16,11 +16,11 @@
 - Newsletter form and footer with institutional info
 
 ## 🛠️ Linguagens | Technologies Used  
-**HTML5**, **CSS3** e **JavaScript**  
-Essas tecnologias foram utilizadas para estruturar, estilizar e dar interatividade ao site. HTML cria o conteúdo, CSS define o layout visual e JavaScript adiciona comportamento dinâmico.
+**HTML5** e **CSS3** 
+Essas tecnologias foram utilizadas para estruturar, estilizar e dar interatividade ao site. HTML cria o conteúdo, CSS define o layout visual.
 
-**HTML5, CSS3 and JavaScript**  
-These technologies were used to structure, style, and add interactivity to the site. HTML builds the content, CSS handles the visual layout, and JavaScript adds dynamic behavior.
+**HTML5** and **CSS3**  
+These technologies were used to structure, style, and add interactivity to the site. HTML builds the content, CSS handles the visual layout.
 
 ## 🖼️ Visualização | Preview  
 
