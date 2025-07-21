@@ -1,4 +1,4 @@
-<h4> Weslecyto/projeto-noticias-cidade </h4>
+<h1> Weslecyto/projeto-noticias-cidade </h1>
 <h2> Projeto | Project </h2>
 [PT-BR] Portal de notícias com layout estilo jornalístico e seções temáticas.
 [ENG] News portal with newspaper-style layout and themed sections.
@@ -11,6 +11,7 @@ Destaques, notícias recentes e entrevistas
 Menu de categorias: Brasil, Internacional, Economia, etc.
 
 Formulário de newsletter e rodapé institucional
+
 [ENG]
 
 Featured news, recent updates and interviews
